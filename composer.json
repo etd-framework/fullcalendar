@@ -1,0 +1,10 @@
+{
+  "name": "etdsolutions/fullcalendar",
+  "description": "Shim repository for FullCalendar",
+  "homepage": "http://fullcalendar.io",
+  "license": "MIT",
+  "require": {
+    "etdsolutions/jquery": ">=1.7.1",
+    "etdsolutions/moment": ">=2.5.0"
+  }
+}
